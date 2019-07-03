@@ -1,0 +1,16 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "automatinis uzduotis",
+  "scripts": {
+    "start": "cypress open",
+    "test": "cypress run"
+  },
+  "main": "index.js",
+  "author": "rup",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cypress": "^3.3.2"
+  }
+}
